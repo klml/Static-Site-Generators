@@ -48,18 +48,20 @@ unless otherwise stated
 * [SG](https://github.com/maxailloud/SG) but but __no markdown__, yaml and [phar](http://php.net/manual/en/intro.phar.php)
 
 ### Markdown
+but no twig
 
 * [Second Crack](https://github.com/marcoarment/secondcrack) smartypants, dropbox sync; but *it's still rough and unfriendly.*
 * [Tempo](https://github.com/catnapgames/Tempo) very simple in 501 lines (386 sloc).
 * [Phase](https://github.com/AD7six/phase) MVC and Java (optional).
 * [Wadoo](https://github.com/alpacaaa/wadoo) doesn't have a CLI, all actions, like compiling, are webserverbased (''index.php?action=com...'') and all is stored in *data.xml*.
 * [Fantastic Windmill](https://github.com/sylvainhalle/FantasticWindmill) own templating system
+* [SiteMaker](https://github.com/lonescript/php-site-maker)
 
+### No markdown
 
-* [Cavy](https://github.com/alxlit/cavy) 404
 * [Drop-a-Site](https://github.com/herschel666/Drop-a-Site) not static
 * [Purepress](https://github.com/megakote/purepress) very simple with 200 lines, plain html no markdown, no template.
-* [SiteMaker](https://github.com/yqtaku/site-maker) 404 <!-- https://github.com/lonescript/php-site-maker ? -->
+
 
 
 ## Ruby
