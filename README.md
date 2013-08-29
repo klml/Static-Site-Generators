@@ -44,17 +44,17 @@ unless otherwise stated
 * [Gen](https://github.com/trq/Gen) <!-- reverse indexer? -->
 * [Meinhof](https://github.com/miguelibero/meinhof) using symfony components
 * [Hydrastic](https://github.com/bpizzi/Hydrastic) still under *heavy development*.
-* [cub](https://github.com/patcoll/cub) yaml, but now markdown
-* [SG](https://github.com/maxailloud/SG) but now markdown, yaml and [phar](http://php.net/manual/en/intro.phar.php)
+* [cub](https://github.com/patcoll/cub) yaml, but __no markdown__
+* [SG](https://github.com/maxailloud/SG) but but __no markdown__, yaml and [phar](http://php.net/manual/en/intro.phar.php)
 
 ### Markdown
 
 * [Second Crack](https://github.com/marcoarment/secondcrack) smartypants, dropbox sync; but *it's still rough and unfriendly.*
 * [Tempo](https://github.com/catnapgames/Tempo) very simple in 501 lines (386 sloc).
-* [secondcrack](https://github.com/marcoarment/secondcrack) should be considered an early alpha.
 * [Phase](https://github.com/AD7six/phase) MVC and Java (optional).
 * [Wadoo](https://github.com/alpacaaa/wadoo) doesn't have a CLI, all actions, like compiling, are webserverbased (''index.php?action=com...'') and all is stored in *data.xml*.
 * [Fantastic Windmill](https://github.com/sylvainhalle/FantasticWindmill) own templating system
+
 
 * [Cavy](https://github.com/alxlit/cavy) 404
 * [Drop-a-Site](https://github.com/herschel666/Drop-a-Site) not static
