@@ -38,7 +38,7 @@ unless otherwise stated
 * [Phrozn](http://www.phrozn.info/en/) additional textile and LESS. Parts from PEAR, Zend Framework 2, Symfony 2, Pirum.
 * [PieCrust](http://bolt80.com/piecrust/) Mustache, Less, Sass, Compass and YUICompressor
 * [Sculpin](http://sculpin.io/) additional textile
-* [Site-builder](https://github.com/inanimatt/site-builder) but *just a personal project*.
+* [Site-builder](https://github.com/inanimatt/site-builder) Symfony2 Components: Yaml, Config, DependencyInjection, ClassLoader, Console. But *just a personal project*.
 * [Snowshoe](https://github.com/edvanbeinum/snowshoe)
 * [Miblo](https://github.com/rafalp/Miblo)
 * [Gen](https://github.com/trq/Gen) <!-- reverse indexer? -->
