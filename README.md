@@ -31,28 +31,29 @@ What features does static site generator need. Not everybody needs all, but its 
 
 ## PHP
 
+Most PHP static site generators use Markdown and [twig](https://github.com/fabpot/Twig) (unless otherwise stated)
 
-* [Phrozn](http://www.phrozn.info/en/) 
-* [PieCrust](http://bolt80.com/piecrust/)
-* [Sculpin](http://sculpin.io/) [twig](https://github.com/fabpot/Twig), markdown, textile
-* [Second Crack](https://github.com/marcoarment/secondcrack) markdown, smartypants, dropbox sync; but *it's still rough and unfriendly.*
-* [Tempo](https://github.com/catnapgames/Tempo) markdown and very simple in 501 lines (386 sloc).
+* [Phrozn](http://www.phrozn.info/en/) additional textile and LESS. Parts from PEAR, Zend Framework 2, Symfony 2, Pirum.
+* [PieCrust](http://bolt80.com/piecrust/) Mustache, Less, Sass, Compass and YUICompressor
+* [Sculpin](http://sculpin.io/) additional textile
+* [Second Crack](https://github.com/marcoarment/secondcrack) smartypants, dropbox sync; but *it's still rough and unfriendly.*
+* [Tempo](https://github.com/catnapgames/Tempo) very simple in 501 lines (386 sloc).
 * [secondcrack](https://github.com/marcoarment/secondcrack) should be considered an early alpha.
-* [Phase](https://github.com/AD7six/phase) MVC and Java (optional). markdown
-* [Site-builder](https://github.com/inanimatt/site-builder) markdown, twig, but *just a personal project*.
-* [Snowshoe](https://github.com/edvanbeinum/snowshoe) twig, markdown
-* [Miblo](https://github.com/rafalp/Miblo) twig, markdown
-* [Gen](https://github.com/trq/Gen) twig, markdown. <!-- reverse indexer? -->
-* [Meinhof](https://github.com/miguelibero/meinhof): markdown, twig, *using symfony components*.
-* [Hydrastic](https://github.com/bpizzi/Hydrastic): markdown, twig; but still under *heavy development*.
-* [cub](https://github.com/patcoll/cub): twig, yaml
-* [Wadoo](https://github.com/alpacaaa/wadoo) doesn't have a CLI, all actions, like compiling, are webserverbased (''index.php?action=com...'') and all is stored in *data.xml*. But you *can* use markdown.
-* [SG](https://github.com/maxailloud/SG) twig, Yaml and [phar](http://php.net/manual/en/intro.phar.php)
+* [Phase](https://github.com/AD7six/phase) MVC and Java (optional).
+* [Site-builder](https://github.com/inanimatt/site-builder) but *just a personal project*.
+* [Snowshoe](https://github.com/edvanbeinum/snowshoe)
+* [Miblo](https://github.com/rafalp/Miblo)
+* [Gen](https://github.com/trq/Gen) <!-- reverse indexer? -->
+* [Meinhof](https://github.com/miguelibero/meinhof) using symfony components
+* [Hydrastic](https://github.com/bpizzi/Hydrastic) still under *heavy development*.
+* [cub](https://github.com/patcoll/cub) yaml, but now markdown
+* [Wadoo](https://github.com/alpacaaa/wadoo) doesn't have a CLI, all actions, like compiling, are webserverbased (''index.php?action=com...'') and all is stored in *data.xml*.
+* [SG](https://github.com/maxailloud/SG) but now markdown, yaml and [phar](http://php.net/manual/en/intro.phar.php)
 * [Cavy](https://github.com/alxlit/cavy) 404
 * [Drop-a-Site](https://github.com/herschel666/Drop-a-Site) not static
-* [Purepress](https://github.com/megakote/purepress) very simple with 200 lines, plain html, no template.
+* [Purepress](https://github.com/megakote/purepress) very simple with 200 lines, plain html no markdown, no template.
 * [SiteMaker](https://github.com/yqtaku/site-maker) 404 <!-- https://github.com/lonescript/php-site-maker ? -->
-* [Fantastic Windmill](https://github.com/sylvainhalle/FantasticWindmill) markdown
+* [Fantastic Windmill](https://github.com/sylvainhalle/FantasticWindmill) own templating system
 
 ## Ruby
 
