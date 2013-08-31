@@ -55,7 +55,7 @@ but no twig
 * [Phase](https://github.com/AD7six/phase) MVC and Java (optional).
 * [Wadoo](https://github.com/alpacaaa/wadoo) doesn't have a CLI, all actions, like compiling, are webserverbased (''index.php?action=com...'') and all is stored in *data.xml*.
 * [Fantastic Windmill](https://github.com/sylvainhalle/FantasticWindmill) own templating system
-* [SiteMaker](https://github.com/lonescript/php-site-maker)
+* [SiteMaker](https://github.com/lonescript/php-site-maker) [yaml](https://github.com/mustangostang/spyc/)
 
 ### No markdown
 
