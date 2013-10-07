@@ -8,15 +8,15 @@ A definitive list of tools for generating static websites.
 What features does static site generator need. Not everybody needs all, but its a mess if you miss something after stating using it.
 
 
-* what kind of lightweight markup language (e.g. markdown)
+* kind of lightweight markup language (e.g. markdown)
 * templates (e.g. django, twig)
 * config and html-metadaten managed inline source document or extra file  (e.g. YAML)
 * edit, create and commit using shell or webinterface or both?
-  * changing content only via sshl/ftp/repositories or additional (protectet) onlineditor for normal users
-  * building websiet with CLI or with webserver
+  * changing content only via sshl/ftp/repositories or additional (protected) onlineditor for normal users
+  * building websites from CLI or/and with a HTTP-request
 * tagging
-* real static html files are faster and easyer to host or need still need php|ry|rb
-* what kind of repository
+* real static html files (are faster and easier to host) or do need still need php|ry|rb etc
+* kind of repository
 
 
 ## Language Agnostic
