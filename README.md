@@ -22,7 +22,7 @@ What features does static site generator need. Not everybody needs all, but its 
 ## Language Agnostic
 
 * [Hammer](http://hammerformac.com/)
-* [Ruhoh](http://ruhoh.com/)
+* [Ruhoh](http://ruhoh.com/)  Mustache
 * [Mixture](http://mixture.io/)
 * [LiveReload](http://livereload.com/)
 * [Site builder console](http://sitebuilder.codeplex.com/)
@@ -114,7 +114,7 @@ but no twig
 * [Quill](https://npmjs.org/package/quill)
 * [blacksmith](https://github.com/flatiron/blacksmith/)
 * [Petrify](https://github.com/caolan/petrify)
-* [Punch](https://github.com/laktek/punch)
+* [Punch](https://github.com/laktek/punch)  Mustache
 * [romulus](https://github.com/felixge/node-romulus)
 * [Wintersmith](http://jnordberg.github.io/wintersmith/)
 * [Hexo](https://github.com/tommy351/hexo)
